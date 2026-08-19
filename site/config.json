@@ -1,0 +1,118 @@
+{
+  "versao": 1,
+  "atualizadoEm": "2026-08-19T13:34:20-03:00",
+  "lojas": {
+    "super": {
+      "horarios": {
+        "seg": {
+          "fechado": false,
+          "abre": "09:00",
+          "fecha": "22:00"
+        },
+        "ter": {
+          "fechado": false,
+          "abre": "09:00",
+          "fecha": "22:00"
+        },
+        "qua": {
+          "fechado": false,
+          "abre": "09:00",
+          "fecha": "22:00"
+        },
+        "qui": {
+          "fechado": false,
+          "abre": "09:00",
+          "fecha": "22:00"
+        },
+        "sex": {
+          "fechado": false,
+          "abre": "09:00",
+          "fecha": "22:00"
+        },
+        "sab": {
+          "fechado": false,
+          "abre": "09:00",
+          "fecha": "22:00"
+        },
+        "dom": {
+          "fechado": false,
+          "abre": "09:00",
+          "fecha": "22:00"
+        }
+      },
+      "excecoes": [],
+      "texto": {
+        "pt": "",
+        "es": ""
+      },
+      "textoAuto": {
+        "pt": "Todos os dias · 9h às 22h",
+        "es": "Todos los días · de 9 a 22 h"
+      }
+    },
+    "dept": {
+      "horarios": {
+        "seg": {
+          "fechado": false,
+          "abre": "11:00",
+          "fecha": "22:00"
+        },
+        "ter": {
+          "fechado": false,
+          "abre": "11:00",
+          "fecha": "22:00"
+        },
+        "qua": {
+          "fechado": false,
+          "abre": "11:00",
+          "fecha": "22:00"
+        },
+        "qui": {
+          "fechado": false,
+          "abre": "11:00",
+          "fecha": "22:00"
+        },
+        "sex": {
+          "fechado": false,
+          "abre": "11:00",
+          "fecha": "22:00"
+        },
+        "sab": {
+          "fechado": false,
+          "abre": "11:00",
+          "fecha": "22:00"
+        },
+        "dom": {
+          "fechado": false,
+          "abre": "11:00",
+          "fecha": "22:00"
+        }
+      },
+      "excecoes": [],
+      "texto": {
+        "pt": "",
+        "es": ""
+      },
+      "textoAuto": {
+        "pt": "Todos os dias · 11h às 22h",
+        "es": "Todos los días · de 11 a 22 h"
+      }
+    }
+  },
+  "aviso": {
+    "ativo": false,
+    "de": "",
+    "ate": "",
+    "texto": {
+      "pt": "",
+      "es": ""
+    }
+  },
+  "contatos": {
+    "whatsappSuper": "5548984828270",
+    "whatsappDept": "",
+    "whatsappRecrutamento": "5548991242637",
+    "instagramSuper": "https://www.instagram.com/magia.supermercados/",
+    "instagramDept": "https://www.instagram.com/magia.departamentos/"
+  }
+}
